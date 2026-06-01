@@ -67,4 +67,4 @@ This is the standard pattern for discrete event simulation — the priority queu
 
 ## License
 
-MIT
+Apache 2.0
